@@ -18,7 +18,7 @@
           {% if content.startDate %}
             {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
             {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: '' %}
-            {% if endDate != '' %}
+            {% if startDate != '' %}
               {% assign date = startDate | append: ' - ' | append: endDate %}
             {% else %}
               {% assign date = startDate %}
