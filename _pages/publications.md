@@ -10,6 +10,16 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography %}
+## Working Papers
+{% bibliography --query @*[keyword=workingpaper] %}
+
+## Research in Progress
+{% bibliography --query @*[keyword=researchinprogress] %}
+
+## Journal Articles
+{% bibliography --query @*[keyword=journalarticle] %}
+
+## Book Chapters
+## {% bibliography --query @*[keyword=bookchapter] %}
 
 </div>
