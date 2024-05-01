@@ -73,8 +73,6 @@ layout: default
 
     <article>
       <div class="cv">
-        <pre>{{ site.data | jsonify }}</pre>
-        <pre>{{ site.data.resume | jsonify }}</pre>
         {% for data in site.data.resume %}
           {% if site.jsonresume and site.jsonresume.size > 0 %}
             {% unless site.jsonresume contains data[0] %}
