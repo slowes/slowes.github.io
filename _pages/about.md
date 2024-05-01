@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p class="email-header">slowes@ucsd.edu</p>
+subtitle: <p style="font-weight: bold; font-style: italic">slowes@ucsd.edu</p>
 
 profile:
   align: right
