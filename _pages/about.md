@@ -2,21 +2,21 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: slowes@ucsd.edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Social Sciences Building</p>
+    <p>Social&nbsp;Sciences&nbsp;Building</p>
     <p>Office #504</p>
     <p>UC San Diego</p>
     <p>La Jolla, CA 92093</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Sara Lowes is an Assistant Professor of Economics at the [University of California, San Diego](https://economics.ucsd.edu/). 
