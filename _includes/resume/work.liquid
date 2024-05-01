@@ -1,6 +1,16 @@
 <h3 class="card-title font-weight-medium">Academic Positions</h3>
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% assign work = data[1] | sort: 'startDate' | reverse %}
+  {% for item in data %}
+    {% if item.endDate == 'Present' %}
+        {% assign item.endDate = 9999 %}
+    {% endif %}
+  {% endfor %}
+  {% assign work = data[1] | sort: 'endDate' | reverse %}
+  {% for item in data %}
+    {% if item.endDate == '9999' %}
+      {% assign item.endDate == 'Present' %}
+    {% endif %}
+  {% endfor %}
   {% for content in work %}
     <li class="list-group-item">
       <div class="row">
