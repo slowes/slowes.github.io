@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: slowes@ucsd.edu
+subtitle: <p class="email-header">slowes@ucsd.edu</p>
 
 profile:
   align: right
