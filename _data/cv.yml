@@ -89,7 +89,7 @@
 
 
 - title: Teaching
-  type: time_table
+  type: nested_list
   contents:
     - institution: Massachusetts Institute of Technology
       courses:
