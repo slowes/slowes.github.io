@@ -20,6 +20,6 @@ nav_order: 2
 {% bibliography --query @*[keyword=journalarticle] %}
 
 ## Book Chapters
-## {% bibliography --query @*[keyword=bookchapter] %}
+{% bibliography --query @*[keyword=bookchapter] %}
 
 </div>
