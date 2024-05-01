@@ -585,7 +585,7 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume
-    json: slowes/slowes.github.io/assets/json/resume.json # it can also be an url
+    json: https://github.com/slowes/slowes.github.io/blob/master/assets/json/resume.json # it can also be an url
 jsonresume:
   - basics
   - work
