@@ -9,22 +9,22 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-## Working Papers
+<h2 style="font-size:24px;">Working Papers</h2>
 <div class="publications">
-{% bibliography --query @*[keyword=workingpaper] %}
+{% bibliography --query @*[keywords=workingpaper] %}
 </div>
 
-## Research in Progress
+<h2 style="font-size:24px;">Research in Progress</h2>
 <div class="publications">
-{% bibliography --query @*[keyword=researchinprogress] %}
+{% bibliography --query @*[keywords=researchinprogress] %}
 </div>
 
-## Journal Articles
+<h2 style="font-size:24px;">Journal Articles</h2>
 <div class="publications">
-{% bibliography --query @*[keyword=journalarticle] %}
+{% bibliography --query @*[keywords=journalarticle] %}
 </div>
 
-## Book Chapters
+<h2 style="font-size:24px;">Book Chapters</h2>
 <div class="publications">
-{% bibliography --query @*[keyword=bookchapter] %}
+{% bibliography --query @*[keywords=bookchapter] %}
 </div>
