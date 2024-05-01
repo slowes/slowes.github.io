@@ -23,7 +23,7 @@
       "position": "Hal Varian Visiting Assistant Professor, Department of Economics",
       "startDate": "2023",
       "endDate": ""
-    }
+    },
     {
       "name": "Stanford University",
       "position": "Postdoctoral Fellow, King Center on Global Development",
@@ -49,13 +49,13 @@
       "institution": "Harvard University",
       "studyType": "M.A., Political Economy and Government",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2014"
     },
     {
       "institution": "Middlebury College",
       "studyType": "B.A., Economics and Political Science (summa cum laude)",
       "startDate": "",
-      "endDate": "2007",
+      "endDate": "2007"
     }
   ],
   "volunteer": [
@@ -113,19 +113,19 @@
       "name": "Massachusetts Institute of Technology",
       "highlights": ["14.773: Political Economy: Institutions and Development (PhD)", "14.75: Political Economy and Economic Development (UG/MA)"],
       "startDate": "2023",
-      "endDate": "",
+      "endDate": ""
     },
     {
       "name": "University of California, San Diego",
       "highlights": ["Ec 237: Political Economy (PhD)", "Ec 116: Development Economics (UG)"],
       "startDate": "2021",
-      "endDate": "Present",
+      "endDate": "Present"
     },
     {
       "name": "Bocconi University",
       "highlights": ["Ec 20287: Development Economics (MA)", "Ec 30145: Development Economics (UG)"],
       "startDate": "2018",
-      "endDate": "2019",
+      "endDate": "2019"
     }
   ]
 }
