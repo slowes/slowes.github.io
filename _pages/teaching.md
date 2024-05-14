@@ -4,7 +4,7 @@ permalink: /resources/
 title: Resources
 description:
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 <h2 style="font-size:24px;">Letters of Recommendation</h2>
