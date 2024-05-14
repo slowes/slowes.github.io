@@ -110,8 +110,8 @@
       {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
     {% endif %}
     {% if entry.year %}
-      {% if hide_year %}
-        {% capture entryyear %}{{ " " }}{{ "NA" }}{% endcapture %}
+      {% if entry.hide_year %}
+        {% capture entryyear %}{{ " " }}{{ "&nbsp;" }}{% endcapture %}
       {% else %}
         {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
       {% endif %}
