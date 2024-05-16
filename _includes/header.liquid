@@ -105,11 +105,13 @@
                   </a>
                 </li>
                 <!-- Insert CV link specifically after Research -->
-                {% if p.title == 'Research' %}
-                  <li class="nav-item">
-                    <a class="nav-link" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/slowes/saralowes.com/main/lowes_cv.pdf" target="_blank">Curriculum Vitae</a>
-                  </li>
-                {% endif %}
+                {% comment %}
+                  {% if p.title == 'Research' %}
+                    <li class="nav-item">
+                      <a class="nav-link" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/slowes/saralowes.com/main/lowes_cv.pdf" target="_blank">Curriculum Vitae</a>
+                    </li>
+                  {% endif %}
+                {% endcomment %}
               {% endif %}
             {% endif %}
           {% endfor %}
