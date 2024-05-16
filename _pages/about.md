@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 ---
 <p style="max-width: 70%; margin-right: 30%;"><strong><em>slowes@ucsd.edu</em></strong></p>
 
-<p style="max-width: 70%; margin-right: 30%;"><strong><em><a href=https://docs.google.com/viewer?url=https://raw.githubusercontent.com/slowes/saralowes.com/main/lowes_cv.pdf>Curriculum Vitae</a></em></strong></p>
+<p style="max-width: 70%; margin-right: 30%;"><strong><em><a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/slowes/saralowes.com/main/lowes_cv.pdf">Curriculum Vitae</a></em></strong></p>
 
 <p style="max-width: 70%; margin-right: 30%;">Sara Lowes is an Assistant Professor of Economics at the <a href="https://economics.ucsd.edu/">University of California, San Diego</a>.</p>
 
