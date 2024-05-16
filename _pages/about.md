@@ -20,6 +20,8 @@ social: false # includes social icons at the bottom of the page
 ---
 <p style="max-width: 70%; margin-right: 30%;"><strong><em>slowes@ucsd.edu</em></strong></p>
 
+<p style="max-width: 70%; margin-right: 30%;"><strong><em><a href=https://docs.google.com/viewer?url=https://raw.githubusercontent.com/slowes/saralowes.com/main/lowes_cv.pdf>Curriculum Vitae</a></em></strong></p>
+
 <p style="max-width: 70%; margin-right: 30%;">Sara Lowes is an Assistant Professor of Economics at the <a href="https://economics.ucsd.edu/">University of California, San Diego</a>.</p>
 
 <p style="max-width: 70%; margin-right: 30%;">In Spring 2023, she visited MIT as the Hal Varian Visiting Assistant Professor. She graduated from Harvard University in May 2017 with a Ph.D. from the <a href="https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-political-economy-government">Political Economy and Government program</a> (Economics track). She was previously a Postdoctoral Fellow at the <a href="https://kingcenter.stanford.edu/">Stanford King Center on Global Development</a> and an Assistant Professor of Economics at Bocconi University.</p>
