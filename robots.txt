@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.saralowes.com/sitemap.xml
+Sitemap: https://slowes.github.io/sitemap.xml
